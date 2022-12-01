@@ -7,7 +7,7 @@ Created by B Salinas on 12-01-2022
 
 b-nodes are my attempt at solving the problem of efficient and simple digital communication by creating a different type of node and a hybrid data structure. We have to go back to the beginning. 
 
-<p align="center" font-style="italic">
+<p align="center" font-style="italic" >
   "Man conquers the world by conquering himself."
   <br/>
   - Zeno
