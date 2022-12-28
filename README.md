@@ -6,7 +6,7 @@ Created by B Salinas on 12-01-2022
 # b-nodes
 ### Table of Contents
 - [History](https://github.com/B-Salinas/b-nodes/blob/main/HISTORY.md)
-- [References]()
+- [References](https://github.com/B-Salinas/b-nodes/blob/main/refs.md)
 
 ---
 
