@@ -5,8 +5,9 @@ Created by B Salinas on 12-01-2022
 
 # b-nodes
 ### Table of Contents
-- [History](https://github.com/B-Salinas/b-nodes/blob/main/HISTORY.md)
-- [References](https://github.com/B-Salinas/b-nodes/blob/main/refs.md)
+- [History](https://github.com/B-Salinas/b-nodes/blob/main/core/history.md)
+- [Philosophy](https://github.com/B-Salinas/b-nodes/blob/main/core/philosophy.md)
+- [References](https://github.com/B-Salinas/b-nodes/blob/main/core/refs.md)
 
 ---
 
