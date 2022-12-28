@@ -4,6 +4,11 @@ Created by B Salinas on 12-01-2022
 -->
 
 # b-nodes
+### Table of Contents
+- [History](https://github.com/B-Salinas/b-nodes/blob/main/HISTORY.md)
+- [References]()
+
+---
 
 b-nodes are my attempt at solving the problem of efficient and simple digital communication by creating a different type of node and a hybrid data structure. We have to go back to the beginning. 
 
