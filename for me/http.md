@@ -17,3 +17,5 @@ HTTP defines the process of exchanging hypertext between systems and works betwe
 In a typical exchange, the client sends a request to the server for a particular resource - a webpage, image, or application data - and the server provides a response containing either the resource that the client requested or an explanation of why it can't provide the resource. 
 
 You ask the server a simple yes/no question and it responds accordingly. 
+
+# Properties 
