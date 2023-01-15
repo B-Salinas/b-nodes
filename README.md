@@ -1,17 +1,20 @@
 <!--
-b-nodes - been, be, become  
+b-nodes - been, be, become
 Created by B Salinas on 12-01-2022
+Updated by B Salinas on 01-15-2023
 -->
 
 # b-nodes
+
 ### Table of Contents
+
 - [History](https://github.com/B-Salinas/b-nodes/blob/main/core/history.md)
 - [Philosophy](https://github.com/B-Salinas/b-nodes/blob/main/core/philosophy.md)
 - [References](https://github.com/B-Salinas/b-nodes/blob/main/core/refs.md)
 
 ---
 
-b-nodes are my attempt at solving the problem of efficient and simple digital communication by creating a different type of node and a hybrid data structure. We have to go back to the beginning. 
+b-nodes are my attempt at solving the problem of efficient and simple digital communication by creating a different type of node and a hybrid data structure. We have to go back to the beginning.
 
 <p align="center" >
   <em>
