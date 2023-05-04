@@ -14,7 +14,9 @@ Updated by B Salinas on 01-15-2023
 
 ---
 
-b-nodes are my attempt at solving the problem of efficient and simple digital communication by creating a different type of node and a hybrid data structure. We have to go back to the beginning.
+privacy is everyone's concern. Privacy is an inherient right and everyone has a right to privacy. b-nodes are my solution/contribution to cybersecurity by drawing from the act of "being".
+
+~~b-nodes are my attempt at solving the problem of efficient and simple digital communication by creating a different type of node and a hybrid data structure. We have to go back to the beginning.~~
 
 <p align="center" >
   <em>
